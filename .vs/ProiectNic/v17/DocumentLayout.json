@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\id_te\\Downloads\\ProiectNic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\formlabirint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\formlabirint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\formlabirint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\formlabirint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\formpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\formpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\formmozaic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\formmozaic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\formalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\formalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\forminformare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\forminformare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\forminformare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\forminformare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\formmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\formmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\formmozaic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\formmozaic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|c:\\users\\id_te\\downloads\\proiectnic\\proiectnic\\formtestare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99281984-EB61-42AD-B85B-1CD16D78396E}|ProiectNic\\ProiectNic.csproj|solutionrelative:proiectnic\\formtestare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLabirint.cs",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormLabirint.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormLabirint.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormLabirint.cs",
+              "RelativeToolTip": "ProiectNic\\FormLabirint.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA9wHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:08:11.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMozaic.cs",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormMozaic.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormMozaic.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormMozaic.cs",
+              "RelativeToolTip": "ProiectNic\\FormMozaic.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:58:03.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormAlbum.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormAlbum.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormAlbum.cs",
+              "RelativeToolTip": "ProiectNic\\FormAlbum.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:55:15.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormInformare.cs",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormInformare.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormInformare.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormInformare.cs",
+              "RelativeToolTip": "ProiectNic\\FormInformare.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:47:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormInformare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormInformare.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormInformare.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormInformare.cs [Design]",
+              "RelativeToolTip": "ProiectNic\\FormInformare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:40:35.678Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLabirint.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormLabirint.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormLabirint.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormLabirint.cs [Design]",
+              "RelativeToolTip": "ProiectNic\\FormLabirint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:36:29.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMemory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormMemory.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormMemory.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormMemory.cs [Design]",
+              "RelativeToolTip": "ProiectNic\\FormMemory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:31:44.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMozaic.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormMozaic.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormMozaic.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormMozaic.cs [Design]",
+              "RelativeToolTip": "ProiectNic\\FormMozaic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:30:59.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormTestare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormTestare.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormTestare.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormTestare.cs [Design]",
+              "RelativeToolTip": "ProiectNic\\FormTestare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:27:47.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormPuzzle.cs",
+              "RelativeDocumentMoniker": "ProiectNic\\FormPuzzle.cs",
+              "ToolTip": "C:\\Users\\id_te\\Downloads\\ProiectNic\\ProiectNic\\FormPuzzle.cs",
+              "RelativeToolTip": "ProiectNic\\FormPuzzle.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:25:01.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
